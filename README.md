@@ -31,7 +31,7 @@ For more information on how to use this project, please see the [documentation](
 
 ### Support
 
-If you have any questions or problems with this project, please feel free to open an issue on GitHub (https://github.com/silvermx).
+If you have any questions or problems with this project, please feel free to open an issue on GitHub (https://github.com/MennaKassem).
 
 ### Roadmap
 
